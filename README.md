@@ -52,12 +52,6 @@ This project analyzes e-commerce sales data using SQL Server and Power BI. The d
 
 ---
 
-## 🖼️ Dashboard Preview
-
-![Dashboard](dashboard.png)
-
----
-
 ## 📁 Repository Structure
 
 ```
